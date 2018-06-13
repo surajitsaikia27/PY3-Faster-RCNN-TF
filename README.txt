@@ -1,5 +1,9 @@
 # PY3-Faster-RCNN-TF
-This repo is a Python3 implementation of [Faster-RCNN_TF by smallcorgi](https://github.com/smallcorgi/Faster-RCNN_TF) which implements [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/pdf/1506.01497v3.pdf) by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
+
+This repo is a Python3 implementation of [Faster-RCNN_TF by smallcorgi](https://github.com/smallcorgi/Faster-RCNN_TF) which implements 
+
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/pdf/1506.01497v3.pdf) by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
+
 The full repository has been made compaitable for python3, and if you want to train a network you can follow the following instructions. In case, if you want to do the same using python2, then you can fork or download the following repo.
 https://github.com/dxyang/Faster-RCNN-COCO_TF
 
